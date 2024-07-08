@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome to my GitHub
 
-<!--
-**acurtis869/acurtis869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate data analyst currently working at GLL in the Business Insights team in London. I have several years of professional experience within data and hold a Bachelor's degree in Mathematics from the University of Bath and a Master's in Data Science from St Andrews University. My educational background has equipped me with a strong foundation in mathematical concepts and data science methodologies, which I apply to solve complex problems and derive actionable business insights. I enjoy learning and am committed to further self-development, currently working towards Microsoft Azure Data Engineering Certification. 
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Parkrun Map](https://github.com/acurtis869/Parkrun-map)
+  * A map to track and visualise the parkruns I have completed in London, organised by their respective boroughs and completion status.
+  * Written in Python, utilising `geopandas`, `folium`, and `branca` libraries.
+ 
+## Previous Projects
+
+* 
