@@ -10,4 +10,16 @@ I am a passionate data analyst currently working at GLL in the Business Insights
  
 ## Previous Projects
 
-* 
+* [Word Segmentation in Neural Machine Translation](https://github.com/acurtis869/Word-Segmentation-in-NMT)
+  * My MSc dissertation topic, investigating different approaches to segment words to improve neural machine translation algorithms.
+  * Programmed in Python and R and written up using LaTeX. Made use of `scipy`, `tensorflow`, `morfessor` and `sacrebleu` in Python and `tidyverse` in R.
+* [Housing Price Prediction Model](https://github.com/acurtis869/housing-price-prediction)
+  * A project as part of my Master's course. Using various machine learning techniques to build a model to predict house prices.
+  * Programmed in Python using Jupyter Notebook. Uses `scikit-learn`, along with `numpy`, `pandas`, and `matplotlib`.
+* [Advanced Data Analysis](https://github.com/acurtis869/advanced-data-analysis)
+  * Lab work from a university course, focusing on increasingly advanced methods of modelling a dataset.
+  * Written in R, making use of many R packages including `glm`, `gstat`, `mgcv`, `splines`, `MuMIn`, and `fields`.
+* [Hair Growth Analysis](https://github.com/acurtis869/hair-growth-analysis)
+  * Analysing the efficacy of various hair growth treatments.
+  * Written in SAS, mainly using the `GLM` and `TTEST` procedures 
+ 
