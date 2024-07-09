@@ -21,5 +21,5 @@ I am a passionate data analyst currently working at GLL in the Business Insights
   * Written in R, making use of many R packages including `glm`, `gstat`, `mgcv`, `splines`, `MuMIn`, and `fields`.
 * [Hair Growth Analysis](https://github.com/acurtis869/hair-growth-analysis)
   * Analysing the efficacy of various hair growth treatments.
-  * Written in SAS, mainly using the `GLM` and `TTEST` procedures 
+  * Written in SAS, mainly using the `GLM` and `TTEST` procedures.
  
