@@ -37,4 +37,4 @@ I am a passionate data analyst currently working at GLL in the Business Insights
  
 ---
 
-Feel free to reach out to me via my [LinkedIn](https://www.linkedin.com/in/alex-curtis/)
+Pleas feel free to reach out to me via my [LinkedIn](https://www.linkedin.com/in/alex-curtis/).
