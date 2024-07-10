@@ -24,7 +24,7 @@ I am a passionate data analyst currently working at GLL in the Business Insights
   * Written in SAS, mainly using the `GLM` and `TTEST` procedures.
 * [Brexit Polling Analysis](https://github.com/acurtis869/brexit-polling-analysis)
   * Uses random sampling to investigate brexit polling data through parametric and non-parametric tests.
-  * Written in R with the `tidyverse` library and `t.test. and `wilcox.test` functions.
+  * Written in R with the `tidyverse` library and `t.test` and `wilcox.test` functions.
 * [Permutation Cipher Tool](https://github.com/acurtis869/permutation-cipher-tool)
   * Project for encrypting, decrypting, and attacking messages encrypted with a permutation cipher, created for a first year univeristy assignment.
   * Created in MATLAB with custom functions.
