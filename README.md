@@ -22,4 +22,15 @@ I am a passionate data analyst currently working at GLL in the Business Insights
 * [Hair Growth Analysis](https://github.com/acurtis869/hair-growth-analysis)
   * Analysing the efficacy of various hair growth treatments.
   * Written in SAS, mainly using the `GLM` and `TTEST` procedures.
- 
+* [Brexit Polling Analysis](https://github.com/acurtis869/brexit-polling-analysis)
+  * Uses random sampling to investigate brexit polling data through parametric and non-parametric tests.
+  * Written in R with the `tidyverse` library and `t.test. and `wilcox.test` functions.
+* [Permutation Cipher Tool](https://github.com/acurtis869/permutation-cipher-tool)
+  * Project for encrypting, decrypting, and attacking messages encrypted with a permutation cipher, created for a first year univeristy assignment.
+  * Created in MATLAB with custom functions.
+* [Survival Analysis](https://github.com/acurtis869/survival-analysis)
+  * Code from a univeristy course focusing on survival analysis involving constructing a Multivariate Cox Proportional Hazards model.
+  * Written in R using the `survival`, `survminer`, and `tidyverse` libraries.
+* [Polynomial Evaluation and Sorting](https://github.com/acurtis869/polynomial-evaluation-and-sorting)
+  * First year university coursework focusing on implementing and utilising polynomial evaluation through Horner's Rule.
+  * Written in MATLAB with custom functions.
